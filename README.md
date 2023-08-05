@@ -1,4 +1,4 @@
-# YouTube Audio Downloader
+# YouTube Audio Downloader (OUTDATED, WORKING ON IN TO MAKE IT UP TO DATE)
 
 This Python script allows you to download audio from YouTube videos and save them in MP3 format, using the top liked song of a Spotify account.
 
@@ -6,7 +6,7 @@ This Python script allows you to download audio from YouTube videos and save the
 
 Before running the script, ensure you have the following installed on your system:
 
-- Python 3.x
+- Python version greater than 3.7
 - FFmpeg
 - A Spotify account
 - A Google account
